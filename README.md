@@ -2,7 +2,7 @@
 
 ### Sobre o desafio
 
-- Desafio 06 do bootcamp da Rocketseat onde continue desenvolvendo a aplicação de gestão de transações, a GoFinances. Agora você irá praticar o que você aprendeu até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
+- Desafio 07 onde foi desenvolvido uma nova aplicação, a GoFinances. Colocando em pratica o que foi aprendido até agora no React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
 
 ### Objetivo
 - Criar uma  aplicação que deve armazenar transações financeiras de entrada e saída e permitir o cadastro e a listagem dessas transações, além de permitir a criação de novos registros no banco de dados a partir do envio de um arquivo csv.
